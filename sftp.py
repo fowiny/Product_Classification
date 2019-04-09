@@ -2,7 +2,7 @@ import pysftp
 
 # https://pysftp.readthedocs.io/en/release_0.2.8/pysftp.html
 
-sftpConnect = pysftp.Connection(host="xxxxxxxx", username="rrrrr", private_key="wwwwwww", password=None, port=22, private_key_pass="uuuu", ciphers=None, log=False)
+sftpConnect = pysftp.Connection(host="xxxxxxxx", username="rrrrr", private_key="wwwwwww", password=None, port=nn, private_key_pass="uuuu", ciphers=None, log=False)
 
 #sftpConnect.mkdir('productCategorization', mode=777) # Create a directory named recom with mode
 #sftpConnect.rename('productCategorization', 'productCategorizer') # Rename directory from recom to recommend
