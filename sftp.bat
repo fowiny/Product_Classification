@@ -1,0 +1,1 @@
+cd C:/Users/festo.owiny/Desktop/projects/productCategorization && python sftp.py

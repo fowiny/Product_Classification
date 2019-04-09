@@ -1,0 +1,1 @@
+cd C:/Users/festo.owiny/Desktop/projects/productCategorization && activate python3 && python productCategorizer.py && deactivate && cd C:/Users/festo.owiny/Desktop/projects/productCategorization
