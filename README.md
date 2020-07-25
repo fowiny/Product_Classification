@@ -1,4 +1,4 @@
-### System for product classification
+### Brand classifier
 While ONE brand had labels, the other brands did not have labels.
 Since different brands were strongly related in their descriptions, It was possible to train our model with the labelled brand, then make predictions for the other brands.
 
